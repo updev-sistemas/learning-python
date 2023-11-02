@@ -1,0 +1,1 @@
+aumento = lambda a, b: (a * b/100)
